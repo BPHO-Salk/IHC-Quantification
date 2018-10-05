@@ -6,7 +6,7 @@
 // (C) Copyright 2018, All rights reserved. 
 // Waitt Advanced Biophotonics Core, Salk Institute for Biological Studies
 // 10010 N Torrey Pines Rd., San Diego, CA 92037, The United States
-// Linjing Fang 06-05-2018
+// Linjing Fang, Uri Manor 06-05-2018
 
 
 // Hide images in GUI for faster processing
